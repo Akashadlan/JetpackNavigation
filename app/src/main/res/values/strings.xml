@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">jJetpack Navi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="Entername">"Enter your name "</string>
+    <string name="cityname">City Name</string>
+    <string name="Text">Text</string>
+    <string name="third">Third</string>
+    <string name="next">Next</string>
+    <string name="three">Three</string>
+    <string name="second">Second</string>
+    <string name="Fourth">Fourth</string>
+</resources>
